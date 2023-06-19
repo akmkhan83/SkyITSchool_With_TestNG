@@ -25,7 +25,7 @@ public class Base {
 	public void setup() {
 		ChromeOptions options = new ChromeOptions();
 		// Set Headless Settings
-		options.setHeadless(true);
+		options.setHeadless(false);
 
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver(options);
