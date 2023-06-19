@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-14T13:51:56 EDT" name="Default suite" finished-at="2023-06-14T13:52:13 EDT" duration-ms="16857">
+    <groups>
+    </groups>
+    <test started-at="2023-06-14T13:51:56 EDT" name="Default test" finished-at="2023-06-14T13:52:13 EDT" duration-ms="16857">
+      <class name="testCases.Update_Customer_Order_ON_Order_Product">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.Update_Customer_Order_ON_Order_Product@4d5b6aac]" started-at="2023-06-14T13:51:53 EDT" name="setup" finished-at="2023-06-14T13:51:56 EDT" duration-ms="2652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="UpdateCustomerOrderONOrderProduct()[pri:0, instance:testCases.Update_Customer_Order_ON_Order_Product@4d5b6aac]" started-at="2023-06-14T13:51:56 EDT" name="UpdateCustomerOrderONOrderProduct" finished-at="2023-06-14T13:52:13 EDT" duration-ms="16855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateCustomerOrderONOrderProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Update_Customer_Order_ON_Order_Product@4d5b6aac]" started-at="2023-06-14T13:52:13 EDT" name="tearDown" finished-at="2023-06-14T13:52:13 EDT" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.Update_Customer_Order_ON_Order_Product -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
